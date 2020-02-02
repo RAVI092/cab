@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-01-19T15:52:14 IST" name="Default suite" finished-at="2020-01-19T15:52:55 IST" duration-ms="41121">
+    <groups>
+    </groups>
+    <test started-at="2020-01-19T15:52:14 IST" name="Default test" finished-at="2020-01-19T15:52:55 IST" duration-ms="41121">
+      <class name="pages.NewTest">
+        <test-method is-config="true" signature="launchUrl()[pri:0, instance:pages.NewTest@7c83dc97]" started-at="2020-01-19T15:52:14 IST" name="launchUrl" finished-at="2020-01-19T15:52:24 IST" duration-ms="9933" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchUrl -->
+        <test-method signature="f()[pri:0, instance:pages.NewTest@7c83dc97]" started-at="2020-01-19T15:52:24 IST" name="f" finished-at="2020-01-19T15:52:41 IST" duration-ms="16717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="launchUrl()[pri:0, instance:pages.NewTest@7c83dc97]" started-at="2020-01-19T15:52:41 IST" name="launchUrl" finished-at="2020-01-19T15:52:51 IST" duration-ms="10707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchUrl -->
+        <test-method signature="f1()[pri:0, instance:pages.NewTest@7c83dc97]" started-at="2020-01-19T15:52:51 IST" name="f1" finished-at="2020-01-19T15:52:55 IST" duration-ms="3691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f1 -->
+      </class> <!-- pages.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
